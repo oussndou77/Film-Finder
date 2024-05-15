@@ -1,2 +1,18 @@
-# Film-Finder
-Discover, Like, and Explore Movies!  Welcome to Film Finder, your go-to destination for discovering, liking, and exploring movies. Whether you're a film enthusiast looking for your next favorite flick or simply seeking entertainment recommendations,  Join our community of movie lovers and start your cinematic journey with Film Finder today!"
+# Film Finder 🎬
+
+Film Finder is a web application that helps you discover, like, and explore movies. It utilizes the TMDB (The Movie Database) API 🌐 to provide movie recommendations based on genres of your choice. You can like or dislike movies to customize your suggestions and explore summaries of your liked and disliked movies.
+
+## Features
+- Discover movies based on genres 🎥
+- Like or dislike movies to customize recommendations 👍👎
+
+## Technologies Used
+- TMDB (The Movie Database) API 🌟
+- HTML, CSS, JavaScript 💻
+
+## How to Use
+1. Select a genre from the dropdown menu.
+2. Click "Let's Play!" to get a random movie recommendation.
+3. Like or dislike the movie to influence future suggestions.
+
+Enjoy your cinematic journey! 🍿
